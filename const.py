@@ -1,5 +1,5 @@
 DUMP = True
-
+NUMBER_OF_RECORDS = 10
 URLS = [
     "https://sport.pzu.pl/znajdz-obiekt?action=component_request.action&component.action=getPlacesMap&component.id=1810692",
     "https://api.oksystem.pl/api/v1/locations?limit=0&page=1&lang=pl&sort=distance&lat=54.519871&lon=18.529152&bottom_corner_lat=47.383719&bottom_corner_lon=32.364104&top_corner_lat=57.574974&top_corner_lon=8.413909",

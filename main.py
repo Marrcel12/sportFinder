@@ -1,7 +1,7 @@
 from sportPackages import SportPackage
 import json
 
-from const import URLS, DUMP
+from const import URLS, DUMP,NUMBER_OF_RECORDS
 from utils import create_dict_from_list, fetch_json
 
 
@@ -19,9 +19,9 @@ dict_package_3 = create_dict_from_list(
     data3.get("response", {}).get("matching_all", {}).get("docs", []) if data3 else []
 )
 if DUMP:
-    json.dump(dict_package_1, open("PZU.json", "w",encoding="utf-8"), indent=4)
-    json.dump(dict_package_2, open("Medicover.json", "w",encoding="utf-8"), indent=4)
-    json.dump(dict_package_3, open("Multisport.json", "w",encoding="utf-8"), indent=4)
+    json.dump( {k: dict_package_1[k] for k in list(dict_package_1)[:NUMBER_OF_RECORDS]}, open("files/PZU10.json", "w",encoding="utf-8"), indent=4)
+    json.dump({k: dict_package_2[k] for k in list(dict_package_2)[:NUMBER_OF_RECORDS]}, open("files/Medicover10.json", "w",encoding="utf-8"), indent=4)
+    json.dump({k: dict_package_3[k] for k in list(dict_package_3)[:NUMBER_OF_RECORDS]}, open("files/Multisport10.json", "w",encoding="utf-8"), indent=4)
 
 package_1 = SportPackage(name="PZU Sport Package", objects=dict_package_1)
 package_2 = SportPackage(name="OK System Package", objects=dict_package_2)

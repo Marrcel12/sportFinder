@@ -1,0 +1,956 @@
+{
+    "Gdynia Padel Club": {
+        "vid": "8205706",
+        "images": [],
+        "address": {
+            "city": "Gdynia",
+            "flat_number": "",
+            "postalcode": "81-228",
+            "street": "Ludwika Zamenhofa",
+            "district": "",
+            "street_number": "17",
+            "region": {
+                "name": "pomorskie",
+                "rid": "4"
+            },
+            "raw_city": "gdynia"
+        },
+        "created": "1682680905",
+        "nid": "7989013",
+        "coordinates": {
+            "lon": "18.530541",
+            "lat": "54.518890"
+        },
+        "aspects": [
+            {
+                "id": 5
+            },
+            {
+                "id": 1
+            },
+            {
+                "id": 6
+            },
+            {
+                "id": 9
+            },
+            {
+                "id": 10
+            },
+            {
+                "id": 13
+            }
+        ],
+        "name": "Gdynia Padel Club",
+        "description": "",
+        "supplier_nid": "7988762",
+        "details": {
+            "mail": "gdyniapadelclub@gmail.com",
+            "phone": "+48534044544",
+            "www": "www.facebook.com/people/Gdynia-PADEL-CLUB/100070520303087/",
+            "opening_hours": [
+                {
+                    "start_hour": "06:00:00",
+                    "end_hour": "23:59:00",
+                    "day": "1"
+                },
+                {
+                    "start_hour": "06:00:00",
+                    "end_hour": "23:59:00",
+                    "day": "2"
+                },
+                {
+                    "start_hour": "06:00:00",
+                    "end_hour": "23:59:00",
+                    "day": "3"
+                },
+                {
+                    "start_hour": "06:00:00",
+                    "end_hour": "23:59:00",
+                    "day": "4"
+                },
+                {
+                    "start_hour": "06:00:00",
+                    "end_hour": "23:59:00",
+                    "day": "5"
+                },
+                {
+                    "start_hour": "06:00:00",
+                    "end_hour": "23:59:00",
+                    "day": "6"
+                },
+                {
+                    "start_hour": "06:00:00",
+                    "end_hour": "23:59:00",
+                    "day": "7"
+                }
+            ],
+            "has_terminal": false
+        },
+        "services": [
+            {
+                "name": "Padel"
+            }
+        ],
+        "distance": "141 m"
+    },
+    "Tango Profesjonalne Studio Ta\u0144ca i Wiza\u017cu": {
+        "vid": "1568592",
+        "images": [],
+        "address": {
+            "city": "Gdynia",
+            "flat_number": "1",
+            "postalcode": "81-324",
+            "street": "Wolno\u015bci",
+            "district": "Dzia\u0142ki Le\u015bne",
+            "street_number": "16",
+            "region": {
+                "name": "pomorskie",
+                "rid": "4"
+            },
+            "raw_city": "gdynia"
+        },
+        "created": "1305796443",
+        "nid": "184314",
+        "coordinates": {
+            "lon": "18.525144",
+            "lat": "54.519354"
+        },
+        "aspects": [
+            {
+                "id": 2
+            }
+        ],
+        "name": "Tango Profesjonalne Studio Ta\u0144ca i Wiza\u017cu",
+        "description": "",
+        "supplier_nid": "184309",
+        "details": {
+            "mail": "diana@tango.com.pl",
+            "phone": "+48608350919",
+            "www": "www.tango.com.pl",
+            "opening_hours": [
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "23:00:00",
+                    "day": "1"
+                },
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "23:00:00",
+                    "day": "2"
+                },
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "23:00:00",
+                    "day": "3"
+                },
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "23:00:00",
+                    "day": "4"
+                },
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "23:00:00",
+                    "day": "5"
+                },
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "23:00:00",
+                    "day": "6"
+                },
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "23:00:00",
+                    "day": "7"
+                }
+            ],
+            "has_terminal": false
+        },
+        "services": [
+            {
+                "name": "Taniec"
+            }
+        ],
+        "distance": "265 m"
+    },
+    "Centrum Sportowe u Jezuit\u00f3w": {
+        "vid": "7608496",
+        "images": [],
+        "address": {
+            "city": "Gdynia",
+            "flat_number": "",
+            "postalcode": "81-313",
+            "street": "Tatrza\u0144ska",
+            "district": "Dzia\u0142ki Le\u015bne",
+            "street_number": "35",
+            "region": {
+                "name": "pomorskie",
+                "rid": "4"
+            },
+            "raw_city": "gdynia"
+        },
+        "created": "1375452045",
+        "nid": "1316846",
+        "coordinates": {
+            "lon": "18.526228",
+            "lat": "54.516572"
+        },
+        "aspects": [
+            {
+                "id": 5
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 6
+            },
+            {
+                "id": 9
+            },
+            {
+                "id": 10
+            },
+            {
+                "id": 17
+            }
+        ],
+        "name": "Centrum Sportowe u Jezuit\u00f3w",
+        "description": "",
+        "supplier_nid": "1316478",
+        "details": {
+            "mail": "cs.biuro@wp.pl",
+            "phone": "+48517067178",
+            "www": "www.centrumsportowe.gdynia.pl",
+            "opening_hours": [
+                {
+                    "start_hour": "06:15:00",
+                    "end_hour": "22:30:00",
+                    "day": "1"
+                },
+                {
+                    "start_hour": "06:15:00",
+                    "end_hour": "22:30:00",
+                    "day": "2"
+                },
+                {
+                    "start_hour": "06:15:00",
+                    "end_hour": "22:30:00",
+                    "day": "3"
+                },
+                {
+                    "start_hour": "06:15:00",
+                    "end_hour": "22:30:00",
+                    "day": "4"
+                },
+                {
+                    "start_hour": "06:15:00",
+                    "end_hour": "22:30:00",
+                    "day": "5"
+                },
+                {
+                    "start_hour": "07:00:00",
+                    "end_hour": "22:00:00",
+                    "day": "6"
+                },
+                {
+                    "start_hour": "07:00:00",
+                    "end_hour": "22:00:00",
+                    "day": "7"
+                }
+            ],
+            "has_terminal": false
+        },
+        "services": [
+            {
+                "name": "Basen"
+            }
+        ],
+        "distance": "413 m"
+    },
+    "Dance Fusion": {
+        "vid": "6121434",
+        "images": [],
+        "address": {
+            "city": "Gdynia",
+            "flat_number": "",
+            "postalcode": "81-321",
+            "street": "Poleska",
+            "district": "",
+            "street_number": "25",
+            "region": {
+                "name": "pomorskie",
+                "rid": "4"
+            },
+            "raw_city": "gdynia"
+        },
+        "created": "1642593577",
+        "nid": "5587684",
+        "coordinates": {
+            "lon": "18.534258",
+            "lat": "54.516242"
+        },
+        "aspects": [
+            {
+                "id": 5
+            },
+            {
+                "id": 1
+            },
+            {
+                "id": 6
+            },
+            {
+                "id": 9
+            },
+            {
+                "id": 10
+            },
+            {
+                "id": 13
+            },
+            {
+                "id": 17
+            }
+        ],
+        "name": "Dance Fusion",
+        "description": "",
+        "supplier_nid": "5587680",
+        "details": {
+            "mail": "kontakt@dancefusion.com.pl",
+            "phone": "+48500706206",
+            "www": "www.dancefusion.com.pl",
+            "opening_hours": [
+                {
+                    "start_hour": "15:00:00",
+                    "end_hour": "22:00:00",
+                    "day": "1"
+                },
+                {
+                    "start_hour": "15:00:00",
+                    "end_hour": "22:00:00",
+                    "day": "2"
+                },
+                {
+                    "start_hour": "15:00:00",
+                    "end_hour": "22:00:00",
+                    "day": "3"
+                },
+                {
+                    "start_hour": "15:00:00",
+                    "end_hour": "22:00:00",
+                    "day": "4"
+                },
+                {
+                    "start_hour": "15:00:00",
+                    "end_hour": "22:00:00",
+                    "day": "5"
+                },
+                {
+                    "start_hour": "15:00:00",
+                    "end_hour": "22:00:00",
+                    "day": "6"
+                },
+                {
+                    "start_hour": "15:00:00",
+                    "end_hour": "22:00:00",
+                    "day": "7"
+                }
+            ],
+            "has_terminal": false
+        },
+        "services": [
+            {
+                "name": "Taniec"
+            }
+        ],
+        "distance": "521 m"
+    },
+    "MOJEstudio": {
+        "vid": "11477319",
+        "images": [],
+        "address": {
+            "city": "Gdynia",
+            "flat_number": "u10/12",
+            "postalcode": "81-397",
+            "street": "Obro\u0144c\u00f3w Wybrze\u017ca",
+            "district": "",
+            "street_number": "8",
+            "region": {
+                "name": "pomorskie",
+                "rid": "4"
+            },
+            "raw_city": "gdynia"
+        },
+        "created": "1716446200",
+        "nid": "11249153",
+        "coordinates": {
+            "lon": "18.537444",
+            "lat": "54.516966"
+        },
+        "aspects": [
+            {
+                "id": 1
+            },
+            {
+                "id": 6
+            },
+            {
+                "id": 9
+            },
+            {
+                "id": 13
+            }
+        ],
+        "name": "MOJEstudio",
+        "description": "",
+        "supplier_nid": "11249055",
+        "details": {
+            "mail": "biuro@mojestudio.co",
+            "phone": "+48728414326",
+            "www": "www.mojestudio.co",
+            "opening_hours": [
+                {
+                    "start_hour": "09:00:00",
+                    "end_hour": "21:00:00",
+                    "day": "1"
+                },
+                {
+                    "start_hour": "09:00:00",
+                    "end_hour": "21:00:00",
+                    "day": "2"
+                },
+                {
+                    "start_hour": "09:00:00",
+                    "end_hour": "21:00:00",
+                    "day": "3"
+                },
+                {
+                    "start_hour": "09:00:00",
+                    "end_hour": "21:00:00",
+                    "day": "4"
+                },
+                {
+                    "start_hour": "09:00:00",
+                    "end_hour": "21:00:00",
+                    "day": "5"
+                },
+                {
+                    "start_hour": "09:00:00",
+                    "end_hour": "15:00:00",
+                    "day": "6"
+                }
+            ],
+            "has_terminal": false
+        },
+        "services": [
+            {
+                "name": "Joga"
+            },
+            {
+                "name": "Pilates"
+            }
+        ],
+        "distance": "625 m"
+    },
+    "McFIT Gdynia Batory": {
+        "vid": "10359106",
+        "images": [
+            "https://panel.medicoversport.pl/files/dostawcy/galeria/McFIT_Gdynia_1.png",
+            "https://panel.medicoversport.pl/files/dostawcy/galeria/McFIT_Gdynia_2.png",
+            "https://panel.medicoversport.pl/files/dostawcy/galeria/McFIT_Gdynia_3.png"
+        ],
+        "address": {
+            "city": "Gdynia",
+            "flat_number": "",
+            "postalcode": "81-366",
+            "street": "10 lutego",
+            "district": "",
+            "street_number": "11",
+            "region": {
+                "name": "pomorskie",
+                "rid": "4"
+            },
+            "raw_city": "gdynia"
+        },
+        "created": "1652778157",
+        "nid": "6056315",
+        "coordinates": {
+            "lon": "18.539571",
+            "lat": "54.519075"
+        },
+        "aspects": [
+            {
+                "id": 5
+            },
+            {
+                "id": 1
+            },
+            {
+                "id": 9
+            },
+            {
+                "id": 13
+            }
+        ],
+        "name": "McFIT Gdynia Batory",
+        "description": "<p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal;\"><strong><span style=\"mso-ascii-font-family: Calibri; mso-fareast-font-family: 'Times New Roman'; mso-hansi-font-family: Calibri; mso-bidi-font-family: Calibri; color: black; border: none windowtext 1.0pt; mso-border-alt: none windowtext 0cm; padding: 0cm; background: white; mso-fareast-language: PL;\">O klubie</span></strong></p><p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal;\"><span style=\"mso-ascii-font-family: Calibri; mso-fareast-font-family: 'Times New Roman'; mso-hansi-font-family: Calibri; mso-bidi-font-family: Calibri; color: black; border: none windowtext 1.0pt; mso-border-alt: none windowtext 0cm; padding: 0cm; background: white; mso-fareast-language: PL;\">Ca\u0142odobowo otwarte si\u0142ownie McFIT dysponuj\u0105 powierzchni\u0105 treningow\u0105 od 1500 do 2000 m<sup>2</sup>. Znajdziesz tu du\u017c\u0105 stref\u0119 kardio</span><span style=\"mso-ascii-font-family: Calibri; mso-fareast-font-family: 'Times New Roman'; mso-hansi-font-family: Calibri; mso-bidi-font-family: Calibri; color: #242424; border: none windowtext 1.0pt; mso-border-alt: none windowtext 0cm; padding: 0cm; mso-fareast-language: PL;\">, bogat\u0105 ofert\u0105 maszyn, rozbudowan\u0105 stref\u0119 wolnych ci\u0119\u017car\u00f3w i przyrz\u0105d\u00f3w do treningu funkcjonalnego. Kluby oferuj\u0105 te\u017c szerok\u0105 gam\u0119 zaj\u0119\u0107 fitness. Niezwykle wyposa\u017cone wn\u0119trza stwarzaj\u0105 niepowtarzaln\u0105 atmosfer\u0119 treningow\u0105.&nbsp;</span></p><p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal;\"><span style=\"mso-ascii-font-family: Calibri; mso-fareast-font-family: 'Times New Roman'; mso-hansi-font-family: Calibri; mso-bidi-font-family: Calibri; color: #242424; border: none windowtext 1.0pt; mso-border-alt: none windowtext 0cm; padding: 0cm; mso-fareast-language: PL;\">&nbsp;</span></p><p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal;\"><strong><span style=\"mso-ascii-font-family: Calibri; mso-fareast-font-family: 'Times New Roman'; mso-hansi-font-family: Calibri; mso-bidi-font-family: Calibri; color: #212121; border: none windowtext 1.0pt; mso-border-alt: none windowtext 0cm; padding: 0cm; mso-fareast-language: PL;\">Pierwsza wizyta</span></strong></p><p class=\"MsoNormal\" style=\"margin-bottom: 0cm; line-height: normal;\"><span style=\"mso-ascii-font-family: Calibri; mso-fareast-font-family: 'Times New Roman'; mso-hansi-font-family: Calibri; mso-bidi-font-family: Calibri; color: #212121; border: none windowtext 1.0pt; mso-border-alt: none windowtext 0cm; padding: 0cm; mso-fareast-language: PL;\">Aby skorzysta\u0107 z klubu McFIT w ramach pakietu Medicover Sport, za\u0142\u00f3\u017c konto w recepcji klubu. Recepcja czynna jest codziennie w godz. 8-22. Rejestracja konta odbywa si\u0119 wy\u0142\u0105cznie podczas pierwszej wizyty. Aby zapisa\u0107 si\u0119 na zaj\u0119cia fitness wejd\u017a na mcfit.com.pl i wejd\u017a w \u201egrafik zaj\u0119\u0107\u201d. Zarezerwuj zaj\u0119cia loguj\u0105c si\u0119 za pomoc\u0105 swojego adresu email.</span><span style=\"mso-ascii-font-family: Calibri; mso-fareast-font-family: 'Times New Roman'; mso-hansi-font-family: Calibri; mso-bidi-font-family: Calibri; color: #242424; mso-fareast-language: PL;\"></span></p>",
+        "supplier_nid": "6056161",
+        "details": {
+            "mail": "bok@mcfit.com.pl",
+            "phone": "+48585800446",
+            "www": "www.mcfit.com.pl/silownia/gdynia",
+            "opening_hours": [
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "22:00:00",
+                    "day": "1"
+                },
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "22:00:00",
+                    "day": "2"
+                },
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "22:00:00",
+                    "day": "3"
+                },
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "22:00:00",
+                    "day": "4"
+                },
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "22:00:00",
+                    "day": "5"
+                },
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "22:00:00",
+                    "day": "6"
+                },
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "22:00:00",
+                    "day": "7"
+                }
+            ],
+            "has_terminal": false
+        },
+        "services": [
+            {
+                "name": "Si\u0142ownia"
+            },
+            {
+                "name": "Zaj\u0119cia fitness"
+            },
+            {
+                "name": "Cardio"
+            },
+            {
+                "name": "Cross trening"
+            },
+            {
+                "name": "Zdrowy kr\u0119gos\u0142up"
+            },
+            {
+                "name": "Taniec"
+            },
+            {
+                "name": "Pilates"
+            },
+            {
+                "name": "Joga"
+            },
+            {
+                "name": "Zaj\u0119cia rowerowe"
+            }
+        ],
+        "distance": "678 m"
+    },
+    "Technologia Cia\u0142a": {
+        "vid": "10479059",
+        "images": [],
+        "address": {
+            "city": "Gdynia",
+            "flat_number": "5",
+            "postalcode": "81-366",
+            "street": "Antoniego Abrahama",
+            "district": "",
+            "street_number": "37",
+            "region": {
+                "name": "pomorskie",
+                "rid": "4"
+            },
+            "raw_city": "gdynia"
+        },
+        "created": "1702046160",
+        "nid": "9656816",
+        "coordinates": {
+            "lon": "18.540845",
+            "lat": "54.518041"
+        },
+        "aspects": [
+            {
+                "id": 1
+            },
+            {
+                "id": 6
+            },
+            {
+                "id": 9
+            },
+            {
+                "id": 13
+            }
+        ],
+        "name": "Technologia Cia\u0142a",
+        "description": "",
+        "supplier_nid": "9656811",
+        "details": {
+            "mail": "tco2@o2.pl",
+            "phone": "+48798822033",
+            "www": "technologiaciala.pl/",
+            "opening_hours": [
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "20:00:00",
+                    "day": "1"
+                },
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "20:00:00",
+                    "day": "2"
+                },
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "20:00:00",
+                    "day": "3"
+                },
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "20:00:00",
+                    "day": "4"
+                },
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "20:00:00",
+                    "day": "5"
+                },
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "20:00:00",
+                    "day": "6"
+                },
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "20:00:00",
+                    "day": "7"
+                }
+            ],
+            "has_terminal": false
+        },
+        "services": [
+            {
+                "name": "Trening EMS"
+            },
+            {
+                "name": "Masa\u017c"
+            }
+        ],
+        "distance": "782 m"
+    },
+    "Strefa Bez Grawitacji": {
+        "vid": "11050723",
+        "images": [],
+        "address": {
+            "city": "Gdynia",
+            "flat_number": "",
+            "postalcode": "81-366",
+            "street": "Abrahama",
+            "district": "",
+            "street_number": "49",
+            "region": {
+                "name": "pomorskie",
+                "rid": "4"
+            },
+            "raw_city": "gdynia"
+        },
+        "created": "1660033787",
+        "nid": "6401166",
+        "coordinates": {
+            "lon": "18.540228",
+            "lat": "54.516737"
+        },
+        "aspects": [
+            {
+                "id": 8
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 6
+            },
+            {
+                "id": 10
+            },
+            {
+                "id": 13
+            },
+            {
+                "id": 15
+            }
+        ],
+        "name": "Strefa Bez Grawitacji",
+        "description": "",
+        "supplier_nid": "6401164",
+        "details": {
+            "mail": "strefabg@gmail.com",
+            "phone": "+48509815618",
+            "www": "www.facebook.com/StrefaBG/",
+            "opening_hours": [
+                {
+                    "start_hour": "08:30:00",
+                    "end_hour": "21:00:00",
+                    "day": "1"
+                },
+                {
+                    "start_hour": "08:30:00",
+                    "end_hour": "21:00:00",
+                    "day": "2"
+                },
+                {
+                    "start_hour": "08:30:00",
+                    "end_hour": "22:00:00",
+                    "day": "3"
+                },
+                {
+                    "start_hour": "08:30:00",
+                    "end_hour": "21:00:00",
+                    "day": "4"
+                },
+                {
+                    "start_hour": "08:30:00",
+                    "end_hour": "21:00:00",
+                    "day": "5"
+                },
+                {
+                    "start_hour": "08:30:00",
+                    "end_hour": "19:00:00",
+                    "day": "6"
+                },
+                {
+                    "start_hour": "16:00:00",
+                    "end_hour": "20:00:00",
+                    "day": "7"
+                }
+            ],
+            "has_terminal": false
+        },
+        "services": [
+            {
+                "name": "Pole dance"
+            },
+            {
+                "name": "Taniec"
+            },
+            {
+                "name": "Tylko dla kobiet"
+            }
+        ],
+        "distance": "795 m"
+    },
+    "STUDIO MODULO": {
+        "vid": "9132942",
+        "images": [],
+        "address": {
+            "city": "Gdynia",
+            "flat_number": "",
+            "postalcode": "81-198",
+            "street": "Antoniego Abrahama",
+            "district": "",
+            "street_number": "9",
+            "region": {
+                "name": "pomorskie",
+                "rid": "4"
+            },
+            "raw_city": "gdynia"
+        },
+        "created": "1694084647",
+        "nid": "8913868",
+        "coordinates": {
+            "lon": "18.541738",
+            "lat": "54.520514"
+        },
+        "aspects": [
+            {
+                "id": 1
+            },
+            {
+                "id": 6
+            },
+            {
+                "id": 10
+            },
+            {
+                "id": 13
+            },
+            {
+                "id": 16
+            }
+        ],
+        "name": "STUDIO MODULO",
+        "description": "",
+        "supplier_nid": "8913856",
+        "details": {
+            "mail": "studiomodulogdynia@gmail.com",
+            "phone": "+48731311388",
+            "www": "studio-modulo.pl/",
+            "opening_hours": [
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "20:00:00",
+                    "day": "1"
+                },
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "20:00:00",
+                    "day": "2"
+                },
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "20:00:00",
+                    "day": "3"
+                },
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "20:00:00",
+                    "day": "4"
+                },
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "20:00:00",
+                    "day": "5"
+                }
+            ],
+            "has_terminal": false
+        },
+        "services": [
+            {
+                "name": "Trening EMS"
+            },
+            {
+                "name": "Inne"
+            }
+        ],
+        "distance": "815 m"
+    },
+    "Energy Club": {
+        "vid": "7196942",
+        "images": [],
+        "address": {
+            "city": "Gdynia",
+            "flat_number": "",
+            "postalcode": "81-531",
+            "street": "Wielkopolska",
+            "district": "",
+            "street_number": "250b",
+            "region": {
+                "name": "pomorskie",
+                "rid": "4"
+            },
+            "raw_city": "gdynia"
+        },
+        "created": "1663938865",
+        "nid": "6556443",
+        "coordinates": {
+            "lon": "18.514002",
+            "lat": "54.473940"
+        },
+        "aspects": [
+            {
+                "id": 1
+            },
+            {
+                "id": 6
+            },
+            {
+                "id": 9
+            },
+            {
+                "id": 10
+            },
+            {
+                "id": 13
+            },
+            {
+                "id": 11
+            }
+        ],
+        "name": "Energy Club",
+        "description": "",
+        "supplier_nid": "1975977",
+        "details": {
+            "mail": "wielkopolska@energy-club.pl",
+            "phone": "+48506519506",
+            "www": "www.energy-club.pl",
+            "opening_hours": [
+                {
+                    "start_hour": "07:00:00",
+                    "end_hour": "22:00:00",
+                    "day": "1"
+                },
+                {
+                    "start_hour": "07:00:00",
+                    "end_hour": "22:00:00",
+                    "day": "2"
+                },
+                {
+                    "start_hour": "07:00:00",
+                    "end_hour": "22:00:00",
+                    "day": "3"
+                },
+                {
+                    "start_hour": "07:00:00",
+                    "end_hour": "22:00:00",
+                    "day": "4"
+                },
+                {
+                    "start_hour": "07:00:00",
+                    "end_hour": "22:00:00",
+                    "day": "5"
+                },
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "20:00:00",
+                    "day": "6"
+                },
+                {
+                    "start_hour": "08:00:00",
+                    "end_hour": "20:00:00",
+                    "day": "7"
+                }
+            ],
+            "has_terminal": false
+        },
+        "services": [
+            {
+                "name": "Si\u0142ownia"
+            },
+            {
+                "name": "Zaj\u0119cia fitness"
+            },
+            {
+                "name": "Taniec"
+            },
+            {
+                "name": "Sztuki walki"
+            }
+        ],
+        "distance": "5.2 km"
+    }
+}
